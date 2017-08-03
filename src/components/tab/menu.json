@@ -1,0 +1,16 @@
+{
+  "menu":[
+    {
+      "name":"商品",
+      "path":"/goods"
+    },
+    {
+      "name":"评论",
+      "path":"/ratings"
+    },
+    {
+      "name":"商家",
+      "path":"/seller"
+    }
+  ]
+}
